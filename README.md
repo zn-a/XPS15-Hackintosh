@@ -16,3 +16,4 @@ Dell XPS 15 9500 (2020) macOS
 | **S4 Sleep**    | Supported                                              |
 | **dGPU**        | NVIDIA GeForce GTX 1650 Ti Mobile                      |
 | **iGPU**        | Intel UHD Graphics 630                                 |
+| **Screen**      | 1920x1200 (15.6", non-touch)                           |
